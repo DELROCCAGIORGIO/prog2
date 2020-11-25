@@ -1,0 +1,3 @@
+progTipsit/nbproject
+progTipsit/test
+progTipsit/manifest.mf
